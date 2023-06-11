@@ -9,7 +9,7 @@ Prerequisites:<br />
 2. Access to Azure account with the ability to launch a Azure Cloud Shell, and create an Azure Storage Container. The data is loaded from this container to snowflake warehouse.<br />
 3. Having installed Azure Storage Explorer, PowerBI.<br />
 <br />
-The setup of Azure blob data container and snowflake enterprise environment in explained in detailed in the following url https://quickstarts.snowflake.com/guide/attaining_consumer_insights_with_snowflake_and_microsoft_power_bi
+The setup of Azure blob data container and snowflake enterprise environment in explained in detailed in the following url<br /> https://quickstarts.snowflake.com/guide/attaining_consumer_insights_with_snowflake_and_microsoft_power_bi
 
-POINTER:
+####POINTER: <br />
 The file "Migrating_Data_to_Azure_Cloud_Platform.sql" provides a detailed explonation of how an Azure storage container is created and how the data is populated using Azure cloud shell.
