@@ -1,6 +1,6 @@
 
-export blobpath='https://powersnowinsight.blob.core.windows.net/lab-data'
-export sastoken='sp=racwdl&st=2023-06-09T11:45:30Z&se=2023-06-11T19:45:30Z&spr=https&sv=2022-11-02&sr=c&sig=OtyzdIXnZPWXcPnDKcgR4oI%2FGHTUVYGWjBQZg%2F0Spl4%3D'
+export blobpath='https://<YOURACCOUNT>.blob.core.windows.net/lab-data'
+export sastoken='<YOURSASTOKEN>'
 export gitbaseurl='https://github.com/sfc-gh-ccollier/sfquickstart-samples/raw/main/samples/snowflake-powerbi-retail-vhol/lab_data'
 
 #category
