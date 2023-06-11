@@ -61,8 +61,8 @@ You should now see the files that were loaded into the storage account
 
 
 #### Prerequisite:
-> - Download this file to load the script file into Azure cloud shell and run.
->https://raw.githubusercontent.com/sfc-gh-ccollier/sfquickstart-samples/main/samples/snowflake-powerbi-retail-vhol/scripts/lab-snowflake->powerbi-load-to-azure-blob.sh
+> - Download this file to load the script file into Azure cloud shell and run: 
+> lab-snowflake-powerbi-load-to-azure-blob.sh
 >
 > - To explore in detailed about snowflake, please refer to the following URL:
 >https://docs.snowflake.com/en/user-guide/intro-key-concepts
